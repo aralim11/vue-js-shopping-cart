@@ -45,7 +45,7 @@ export default {
             const price = this.$refs.price.value;
             const quantity = this.$refs.quantity.value;
 
-            if (product_name.trim() === '' && price.trim() === '' && quantity.trim() === '') {
+            if (product_name.trim() === '' || price.trim() === '' || quantity.trim() === '') {
                 this.isRequired = true;
                 return;
             }
