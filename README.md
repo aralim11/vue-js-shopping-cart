@@ -2,7 +2,7 @@
 
 A single page add product and shopping cart system using Vue - 3 and Bootstrap.
 
-### Demo Link - [Click Here](https://unruffled-jennings-eeb573.netlify.app/)
+### Demo Link - <a href="https://unruffled-jennings-eeb573.netlify.app/" target="_blank">Click Here</a>
 
 ## Screenshot
 ![Add Product](https://github.com/aralim11/vue-js-shopping-cart/blob/main/screenshot/addproduct.PNG)
